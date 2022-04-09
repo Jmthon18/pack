@@ -4,7 +4,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jmthon18/pack)
 
-## شكـرا لكـم 
+## شكـرا لكـ 
 
 
 this userbot is import of catuserbot and translate to arabic
